@@ -1,0 +1,32 @@
+// Install fastApi framework and all its dependencies
+pip install fastapi[all]
+
+// Connect our app to uvicorn server
+uvicorn api.main:app --reload
+
+// Create a schema
+
+// Implement Routes and CRUD functions
+
+// Implement database
+postgresql.org(Nickoch96)
+pgAdmin4
+pip install psycopg2
+
+// Implement an ORM(sqlalchemy)
+install sqlalchemy(1.4)
+create a databasee.py file to handle db connections
+
+// Implement user authentication
+pip install passlib[bcrypt]
+pip install python-jose[cryptography]
+
+// implement token authentication(6.32)
+
+// Link users to posts
+// database migration tool
+pip install alembic
+// Configure CORS
+// Set up git
+
+http://127.0.0.0.1:8000
