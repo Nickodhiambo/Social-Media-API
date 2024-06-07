@@ -29,4 +29,12 @@ pip install alembic
 // Configure CORS
 // Set up git
 
+// Deploy to render
+Set up a postgresql db
+
+dpg-cphceoe3e1ms73d56hm0-a
+prod_postgres_db_sah7
+2dKeA55Io3WbYiHQB164mbZT0CTD41v5
+postgres://nick:2dKeA55Io3WbYiHQB164mbZT0CTD41v5@dpg-cphceoe3e1ms73d56hm0-a.oregon-postgres.render.com/prod_postgres_db_sah7
+
 http://127.0.0.0.1:8000
