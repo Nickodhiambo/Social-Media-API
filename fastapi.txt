@@ -38,3 +38,16 @@ prod_postgres_db_sah7
 postgres://nick:2dKeA55Io3WbYiHQB164mbZT0CTD41v5@dpg-cphceoe3e1ms73d56hm0-a.oregon-postgres.render.com/prod_postgres_db_sah7
 
 http://127.0.0.0.1:8000
+
+Deploy your fastApi Backend to render
+Introduction
+Create a render account
+Prepare our local environmen for production:
+    create a .env file
+    create a requirements.txt file
+    Initializa a repo and push your code to github
+    Create a build.sh file
+Login into your render account
+Create a postgresql db
+Create a new web service
+Conclusion
